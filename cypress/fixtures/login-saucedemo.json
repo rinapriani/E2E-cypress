@@ -1,0 +1,4 @@
+{
+    "username" : ["standard_user", "user_standard", "STANDARD_USER"],
+    "password" : ["secret_sauce", "sauce_secret", "SAUCE_SECRET"]
+}
